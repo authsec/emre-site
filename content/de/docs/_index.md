@@ -1,7 +1,6 @@
-
 ---
-title: "Topics"
-linkTitle: "Topics"
+title: "Inhalte"
+linkTitle: "Inhalte"
 weight: 20
 menu:
   main:
@@ -9,7 +8,7 @@ menu:
 ---
 
 {{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
+Dieser Platzhalter zeigt, wie dieses Template verwendet werden kann.
 {{% /pageinfo %}}
 
 

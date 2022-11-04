@@ -1,6 +1,5 @@
 ---
-title: Søkeresultat
+title: Suchergebnisse
 layout: search
-
 ---
 
